@@ -1,4 +1,4 @@
-﻿#Set-ExecutionPolicy unrestricted
+
 
 Set-ExecutionPolicy RemoteSigned
 $UserCredential = Get-Credential
